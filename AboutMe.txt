@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<title>About Me</title>
+<body>
+<style>
+body {
+background-color: MintCream;
+}
+</style>
+
+<p style="text-align:right"><a href="Home.html">Home</a>
+        <a href="AboutMe.html">About Me</a>
+         <a href="Contact.html">Contact</a>
+         <a href="Music.html">Music</a>
+       <a href="Sports.html">Sports</a>
+       <a href="Food.html">Food</a>
+       <a href="TV Shows/Movies.html">TV Shows/Movies</a>
+         
+
+
+<p style="font-size:50px;">About me!<br><br><p style="font-size:18px;">My dad, brothers, sisters & me</p><left><img src="https://scontent.forf1-4.fna.fbcdn.net/v/t1.0-9/26907511_1746504078703340_8222557009922560079_n.jpg?_nc_cat=111&ccb=2&_nc_sid=8bfeb9&_nc_ohc=Hav4yIam8Q4AX8WdSJN&_nc_ht=scontent.forf1-4.fna&oh=9148f813834172c92f32d78ab8f9f6b5&oe=5FFA84E8" alt="myself and family" style="float:left;width:420px;height:400px;"></p>
+<p><br><br><br><br><br><br> I was born and raised in Norfolk, Virginia and have been here my whole life so far.
+<br>Growing up I was always hanging out with my siblings and cousins, family was and still is very important.
+<br>In grade school I was always involved in sports, I was very active in the sports scene as a youth.
+<br>I am just your average dude that loves the simple things in life.
+<br> I love music, games, sports, and TV shows/Movies, as well as being around genuine people that I care about like family and friends.</p>
+
+
+</body>
+</html>

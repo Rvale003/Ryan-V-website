@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<title>Music</title>
+<head>
+<style>
+body {
+background-color: MintCream;
+}
+p {
+  Padding: 13px;
+}
+</style>
+<center>
+</head>
+<body>
+<p style="text-align:right"><a href="Home.html">Home</a>
+        <a href="AboutMe.html">About Me</a>
+         <a href="Contact.html">Contact</a>
+         <a href="Music.html">Music</a>
+       <a href="Sports.html">Sports</a>
+       <a href="Food.html">Food</a>
+       <a href="TV Shows/Movies.html">TV Shows/Movies</a>
+
+<h1>Music From A Few Of My Favorite Artists</h1>
+
+<h2>Drake</h2>
+<p style="border: 2px Solid Tomato;">I have been a fan of drake ever since middle school, some of my favorite songs from him are:<br>fireworks<br>Pound Cake/Paris Morton Music 2<br> Lord knows<br> Tuscan leather<br> 6pm in New York<br>Views<br>Jungle</p>
+<p style="border: 2px Solid Tomato;">Drake ft. Alicia Keys- Fireworks</p>
+<audio controls>
+  
+  <source src="Drake Ft. Alicia Keys- FireWorks.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+<h3>Future</h3>
+<p style="border: 2px Solid DodgerBlue;">Future has songs for every mood you can feel, and I love that. Some of my favorite songs by future are:<br> Straight up<br> Look Ahead<br> Codeine Crazy<br> The Percocet & Stripper Joint<br> 31 Days<br>Never Forget</p>
+
+
+<h3>Young Thug</h3>
+<p style="border: 2px Solid MediumSeaGreen;">
+I Heard Young Thug for the first time early in high school, and as the years went on he started to become one of my favorite artists. Some of my favorite songs from Young Thug would be:<br> Just Might Be<br> Halftime<br> Cruise Ship<br> Chains Choking Me<br> STS<br> Mannequin Challenge<br>With That</p>
+
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
+}
+</style>
+</head>
+<body>
+
+<h3>My top song From each artist </h3>
+<table style="width:44%">
+  <tr>
+    <th>Artist</th>
+    <th>Song</th> 
+  </tr>
+  <tr>
+    <td>Drake<br><img src="https://latestnews.fresherslive.com/images/articles/width-900/2020/07/08/drake-net-worth-estimated-net-worth-of-usd-150-million-5f05fecd664ca-1594228429.jpg" width="230"height="150"></td>
+    <td>Lord Knows</td>
+  </tr>
+  <tr>
+    <td>Future<br><img src="https://wtop.com/wp-content/uploads/2020/03/hypatia-h_fac880b4044df3798ddc63437a97e446-h_447b27dabcc8d5e7f718ababc12235be-300.jpg" width="230"height="150"></td>
+    <td>Straight Up</td>
+  </tr>
+  <tr>
+    <td>Young Thug<br><img src="https://images.complex.com/complex/images/c_fill,f_auto,g_center,w_1200/fl_lossy,pg_1/uqhbbxwuuve4eyhaxdtu/young-thug" width="230"height="150"></td>
+    <td>Mannequin Challenge</td>
+  </tr>
+</table>
+
+</body>
+</html>

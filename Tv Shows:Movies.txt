@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<title>Tv Shows/Movies</title>
+<body>
+<style>
+body {
+background-color: MintCream;
+}
+</style>
+<p style="text-align:right"><a href="Home.html">Home</a>
+        <a href="AboutMe.html">About Me</a>
+         <a href="Contact.html">Contact</a>
+         <a href="Music.html">Music</a>
+       <a href="Sports.html">Sports</a>
+       <a href="Food.html">Food</a>
+       <a href="TV Shows/Movies.html">TV Shows/Movies</a>
+<center>
+<h1>My Favorite TV Shows & Movies</h1>
+<h2>TV Shows</h2>
+<p style="border: 2px Solid Violet;">Growing up finding new and differnt amazing TV shows to watch was a blessing, here is a list of some of the TV shows I currently watch, and older shows that I still watch:<br>The Office<br>The Fresh Prince of Bel-Air<br>Rick and Morty<br>Dragon Ball Z<br>My Hero Academia<br>Hunter x Hunter<br>Game of Thrones<br>Death Note<br>Martin<br>Breaking Bad<br>The Walking Dead<br>Atlanta<br>How I Met Your Mother<br>South Park<br>Key & Peele</p>
+<p style="border: 2px Solid Violet;">Out of all the shows, The Fresh Prince of Bel-Air and The office are my favorites, the rewatch value will always be there for me,and I absolutely love both shows.</p><br><img src="https://img.nbc.com/sites/nbcunbc/files/images/2016/1/19/MDot-TheOffice-640x360-MP.jpg" width="400" height="260"><br><img src="https://images-na.ssl-images-amazon.com/images/I/81ZPoXiAd4L._RI_.jpg" width="400" height="260"></p>
+<h2>Movies</h2>
+<p style="border: 2px Solid SlateBlue;">I love watching movies whether it be with family, friends, or watching them by myself, I am a fan of almost every genre of movies.<br>If I had to pick what my favorite movie series is of all time, it would be the Back To The Future trilogy.<br>Here is a list of movies I love outside of the Back To The Future Trilogy:<br>Keanu<br>The Dark Knight<br>Spider-Man: Into the Spider-Verse<br>Avengers: Endgame<br>Pineapple Express<br>Black Panther<br>Pulp Fiction<br>Jurassic Park<br>Mr.Deeds<br>Rush Hour<br>Rocky</p><img src="https://images-na.ssl-images-amazon.com/images/I/81VrhinRa5L._AC_SL1500_.jpg" width="555" height="360">
+
+</body>
+</html>
